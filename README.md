@@ -1,3 +1,3 @@
-# git-conflit
+LOCAL
 
 Création des fichiers nécessaires a la quête gérer les conflits avec git.
